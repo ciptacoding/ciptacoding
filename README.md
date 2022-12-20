@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ciptadwipajaya
 - 👀 I’m interested in web development and software development
-- 🌱 I’m currently learning laravel, codeigniter, c++, java, html, css, php, javascript
+- 🌱 I’m currently learning React, laravel, codeigniter, c++, java, html, css, php, javascript
 - 💞️ I’m looking to collaborate on Programming
 - 📫 How to reach me https://www.instagram.com/ciptadwipajayaa/
 
