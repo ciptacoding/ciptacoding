@@ -25,7 +25,15 @@
  ---
 
 ### :man_technologist: About Me :
-Nothing!
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring new technology.
+
+- :zap: In my free time, I solve problems on Hackerrank and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/i-gusti-ngurah-cipta-dwipajaya-9019bb231/)
 
 ---
 
